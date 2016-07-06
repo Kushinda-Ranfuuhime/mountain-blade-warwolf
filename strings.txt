@@ -2452,7 +2452,7 @@ str_ruin_shiva_blade_4 I_defeated_them_all._I_found_a_brilliant_sword_in_the_Tem
 str_ruin_sun_blade_1 -Warrior-^^Help!
 str_ruin_sun_blade_2 -Mamluk_Swordman-^^Die!
 str_ruin_sun_blade_3 I_defeated_them_all._I_found_a_brilliant_sword_while_exploring_the_ruins.
-str_ruin_evil_spirits_armor_0 -Samurai-^^I_retreat_even_one_step!
+str_ruin_evil_spirits_armor_0 -Samurai-^^I_will_not_retreat_even_one_step!
 str_ruin_evil_spirits_armor_1 I_defeated_Samurai,_and_looted_his_armor.
 str_ruin_dracul_armor_0 -Unknown_creature-^^hhjgfdsf1312?_dczxrcnhyr!
 str_ruin_dracul_armor_1 I_defeated_the_unknown_creature.
