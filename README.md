@@ -11,3 +11,5 @@ Apparently there's some text desync? Banned from /vg/ until saturday morning Chi
 
 
 **Juice is used to prevent Scurvy, which only occurs when you're on ships.**
+
+**I recall someone changing the Troops.txt in thread, if he sees this could you put it on pastebin or something?**
