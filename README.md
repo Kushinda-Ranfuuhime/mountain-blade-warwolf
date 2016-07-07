@@ -10,6 +10,7 @@ Apparently there's some text desync? Banned from /vg/ until saturday morning Chi
 
 So should I include jumpattack? Looks like a lot of people want it for some reason, not that I care since I'm a whore's archer.
 
+Game crashes and I don't know why, I didn't change shit besides localization.
 
 **Juice is used to prevent Scurvy, which only occurs when you're on ships.**
 
