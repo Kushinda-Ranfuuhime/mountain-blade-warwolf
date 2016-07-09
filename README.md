@@ -12,4 +12,4 @@ Strings.txt is almost done and should be playable, text offset should be fixed.
 
 Hopeful that we can stuff in the models and textures from Warphilia again, the hair assets in particular are sorely missed. Fuck modders wailing about their stolen assets.
 
-The files you should download are Menus.txt, Module.ini, Strings.txt, and item_kinds1.txt - the others are not edited.
+The files you should download are Menus.txt, Strings.txt, and item_kinds1.txt - the others are not edited.
